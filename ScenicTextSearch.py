@@ -170,7 +170,7 @@ string=str(object='')
 for ((startX, startY, endX, endY), text) in results:
     string=string + ' ' + text
     
-#search for the string on google
+#search for the string on google and display it on the python terminal
 for j in search(string, tld='co.in', lang='en', num=10, start=0, stop=1, pause=1.0, only_standard=False):
     print(j+'\n')
     
