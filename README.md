@@ -27,7 +27,7 @@ pip install beautifulsoup4
 pip install google
 ```
 
-5.Download the file in the download folder to the cloned repository folder.
+5.Download the file from the given link in Download.md file to the cloned repository location.
 
 
 # Using the code
