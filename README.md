@@ -41,4 +41,8 @@ pip install google
 4.**(Optional)** Change the threshold value to discard the detected text boxes on line number 67.
 
 
+# An Example
+
+
+
 
