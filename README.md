@@ -46,5 +46,8 @@ pip install google
 ![1](https://user-images.githubusercontent.com/31141798/51114496-7d846600-182b-11e9-8f98-47f15b46d6d0.jpg)
 
 
+**Detected Text**
+![capture](https://user-images.githubusercontent.com/31141798/51114654-f4216380-182b-11e9-8283-b2acb0fbff00.PNG)
+
 
 
