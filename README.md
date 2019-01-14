@@ -59,3 +59,16 @@ pip install google
 ![2](https://user-images.githubusercontent.com/31141798/51114819-73169c00-182c-11e9-8124-fac29d1059cd.png)
 
 
+# Built With-
+
+1. East Text Detector- to detect the bounding boxes or possible text regions
+
+2. Tesseract- to convert the text boxes to strings
+
+3. Google Search- to search for the string on the web crawler
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
