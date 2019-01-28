@@ -1,6 +1,6 @@
 # ScenicTextSearch
 
-The ScenicTextSearch searches for text in a picture and seaches for the text on google.
+The ScenicTextSearch searches for text in a picture and searches for the text on google.
 It requires active internet connection.
 
 
